@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8512ee0c-1808-400f-8288-3960013ae4ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/2C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/2D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/2H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/2S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/3C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/3H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/3S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/General/icon_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/General/icon_submit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/General/password_panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/General/top_panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level4-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level4-Bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/Level5-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/MenuScene/godtower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/MenuScene/icon_continue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/MenuScene/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case/Img/icon_start.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Bài tập JS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh Nhung JS/NhungJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh Nhung JS/ThucHanhNhung.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh khai bao va su dung bien/KhaiBaoBien3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh khai bao va su dung bien/KhaiBaoBienBai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh khai bao va su dung bien/KhaiBaoBienBai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[Thực hành] Hiển thị đầu ra.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jiLdMBhy3VM0Krsl26n6FTm3nw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8512ee0c-1808-400f-8288-3960013ae4ba" name="Default Changelist" comment="" />
+      <created>1604282079301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604282079301</updated>
+      <workItem from="1604282095678" duration="200000" />
+      <workItem from="1604283208077" duration="8720000" />
+      <workItem from="1604300631329" duration="4263000" />
+      <workItem from="1604305426397" duration="355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
