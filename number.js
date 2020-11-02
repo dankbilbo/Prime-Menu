@@ -108,10 +108,11 @@ class Number {
     enterXAtPosition() {
         let str = "";
         this.arr.push(document.getElementById("X").value);
+        this.arr.sort();
         for (let i = 0; i < this.arr.length; i++) {
             str += this.arr[i] + ",";
         }
-        document.getElementById("new-array-after-push-x").innerHTML = "Mang moi sau khi add x la : " + str;
+        document.getElementById("new-array-after-push-x").innerHTML = "Mang moi sau khi add x va sort la : " + str;
     }
 
     enterArray(arr) {
