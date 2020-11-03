@@ -84,13 +84,19 @@ class Number {
 
     deleteNInArray() {
         let str = "";
+        let count = 0;
         for (let i = 0; i < this.arr.length; i++) {
             if(this.arr[i] == this.num) {
+                count++;
                 for(let j = i; j < this.arr.length; j++){
                     this.arr[j] = this.arr[j + 1];
                 }
                 i--;
             }
+        }
+        if(count == 0){
+            alert("N khong nam trong mang");
+            return;
         }
         for (let i = 0; i < this.arr.length; i++) {
             str += this.arr[i] + ",";
