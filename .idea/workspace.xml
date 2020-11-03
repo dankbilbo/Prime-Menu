@@ -52,9 +52,7 @@
       <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsForm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/number.js" beforeDir="false" afterPath="$PROJECT_DIR$/number.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../[Thực hành] Hiển thị đầu ra.js" beforeDir="false" />
@@ -100,7 +98,9 @@
       <workItem from="1604283208077" duration="8720000" />
       <workItem from="1604300631329" duration="4263000" />
       <workItem from="1604305426397" duration="849000" />
-      <workItem from="1604306353499" duration="299000" />
+      <workItem from="1604306353499" duration="589000" />
+      <workItem from="1604326437160" duration="341000" />
+      <workItem from="1604365847497" duration="1150000" />
     </task>
     <servers />
   </component>

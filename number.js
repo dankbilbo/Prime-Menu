@@ -85,8 +85,10 @@ class Number {
     deleteNInArray() {
         let str = "";
         for (let i = 0; i < this.arr.length; i++) {
-            if (this.arr[i] == this.num) {
-                this.arr.splice(i, 1);
+            if(this.arr[i] == this.num) {
+                for(let j = i; j < this.arr.length; j++){
+                    this.arr[j] = this.arr[j + 1];
+                }
                 i--;
             }
         }
@@ -98,7 +100,15 @@ class Number {
 
     sortArray() {
         let str = "";
-        this.arr.sort();
+        for(let i = 0; i < this.arr.length; i++){
+            for(let j = 0; j < this.arr.length; j++){
+                if(this.arr[i] < this.arr[j]){
+                    let temp = this.arr[i];
+                    this.arr[i] = this.arr[j];
+                    this.arr[j] = temp;
+                }
+            }
+        }
         for (let i = 0; i < this.arr.length; i++) {
             str += this.arr[i] + ",";
         }
@@ -108,7 +118,7 @@ class Number {
     enterXAtPosition() {
         let str = "";
         this.arr.push(document.getElementById("X").value);
-        this.arr.sort();
+        this.arr.sortArray();
         for (let i = 0; i < this.arr.length; i++) {
             str += this.arr[i] + ",";
         }
